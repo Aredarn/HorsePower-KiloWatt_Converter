@@ -1,0 +1,18 @@
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\bin\Debug\net5.0-windows\HorsePower_KiloWatt converter.exe
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\bin\Debug\net5.0-windows\HorsePower_KiloWatt converter.deps.json
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\bin\Debug\net5.0-windows\HorsePower_KiloWatt converter.runtimeconfig.json
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\bin\Debug\net5.0-windows\HorsePower_KiloWatt converter.runtimeconfig.dev.json
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\bin\Debug\net5.0-windows\HorsePower_KiloWatt converter.dll
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\bin\Debug\net5.0-windows\ref\HorsePower_KiloWatt converter.dll
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\bin\Debug\net5.0-windows\HorsePower_KiloWatt converter.pdb
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.csprojAssemblyReference.cache
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt_converter.Converter.resources
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.csproj.GenerateResource.cache
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.AssemblyInfoInputs.cache
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.AssemblyInfo.cs
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.csproj.CoreCompileInputs.cache
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.dll
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\ref\HorsePower_KiloWatt converter.dll
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.pdb
+E:\Programos\Unfinished\HorsePower_KiloWatt converter\obj\Debug\net5.0-windows\HorsePower_KiloWatt converter.genruntimeconfig.cache
